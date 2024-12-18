@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IniParser")]
-[assembly: AssemblyDescription("Ini file write/read utility for .Net")]
+[assembly: AssemblyTitle("Ini")]
+[assembly: AssemblyDescription("A library that parses ini files writing in .Net.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Damiao")]
-[assembly: AssemblyProduct("IniParser")]
-[assembly: AssemblyCopyright("Copyright ©moedrian  2023")]
+[assembly: AssemblyCompany("Miao Miao")]
+[assembly: AssemblyProduct("Ini")]
+[assembly: AssemblyCopyright("Copyright ©Moedrian  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9305b3dd-b955-404c-ae74-101f1c20eed5")]
+[assembly: Guid("29b2546a-190d-4538-ae6c-e36fe7b5614f")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -29,8 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-// You can specify all the values or you can default the Build and Revision Numbers
-// by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
